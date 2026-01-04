@@ -1,7 +1,0 @@
-{
-  "name": "Ring The Goose_Final Project",
-  "description": "A tranquil ring toss game set in a beautiful sunset garden. Catch the wandering geese as cherry blossoms fall around you.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
